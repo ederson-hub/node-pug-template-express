@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "content": "Phasellus fringilla neque vitae leo interdum, eu aliquam urna mollis. Sed pellentesque, neque et rhoncus tristique, ex ipsum elementum nunc, vel feugiat nunc enim nec est. Praesent congue tellus eget lacus pellentesque, nec sollicitudin nisi suscipit. Pellentesque viverra lorem id urna malesuada, id tempus ligula hendrerit. Nullam ac dolor ipsum. Aliquam aliquam mollis velit, ut aliquet velit tincidunt et. Fusce ullamcorper venenatis mi, posuere facilisis urna placerat quis. Proin vulputate tincidunt dolor, quis sollicitudin nibh interdum vitae. Integer tempus tellus libero, sed vehicula ipsum ultrices id. Pellentesque quis dictum mi, ut ultrices mauris. Sed vel nisl dolor. Morbi et lacinia nulla. Sed risus leo, mollis viverra ante quis, dapibus euismod ipsum."
+    },
+    {
+        "id": 2,
+        "title": "How we move",
+        "content": "How we move around the city can influence health and well-being of individuals, communities, and our environment. It can point to social inequities and neighbourhoods that need more investment and care."
+    },
+    {
+        "id": 3,
+        "title": "Making it happen ",
+        "content": "Exceed our walkable neighbourhoods target in current planning initiatives, such as the Broadway Plan, and achieve a sustainable transportation target of at least 80% of trips be made on foot, bike, or transit by 2030 in current and emerging planning areas around rapid transit stations."
+    },
+    {
+        "id": 4,
+        "title": "Active transportation and transit.",
+        "content": "Driving less is key to reducing our carbon pollution. We’re focusing on making it safer and more convenient for people of all ages and abilities to walk, roll, bike, and take transit."
+    },
+    {
+        "id": 4,
+        "title": "What this all means.",
+        "content": "Low-cost sustainable transportation options will be easy, safe, and reliable. People will live in walkable complete neighbourhoods and can get to work, school, and other destinations without needing to rely on gas and diesel vehicles. There will be less noise and pollution."
+    }
+]
